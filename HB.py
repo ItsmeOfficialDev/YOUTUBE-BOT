@@ -7,8 +7,8 @@ import requests
 HB = Client(
     "YOUTUBE Bot",
     bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    api_id = int(os.environ["21630936"]),
+    api_hash = os.environ["d39af8130ac213646bb3b4b824c35e4b"]
 )  
 
 START_TEXT = """**
@@ -37,7 +37,7 @@ MADE BY @TELSABOTS**
 ABOUT_TEXT = """
  🤖<b>BOT :YOUTUBE DOWNLOADER </b>
  
- 🧑🏼‍💻DEV🧑🏼‍💻: @ALLUADDICT
+ 🧑🏼‍💻DEV🧑🏼‍💻: @ITS_ME_DEV_WHO
  
  📢<b>CHANNEL :</b>@TELSABOTS
  
@@ -45,7 +45,7 @@ ABOUT_TEXT = """
  
  🧰<b>Frame Work :</b>  <a href='https://pyrogram.org/'>Pyrogram</a>
  
- 🤩<b>SOURCE :</b>  <a href='https://youtu.be/xyW5fe0AkXo'>CLICK HERE</a>
+ 🤩<b>SOURCE :</b>  <a href='https://github.com'>GITHUB</a>
  
  
 """
